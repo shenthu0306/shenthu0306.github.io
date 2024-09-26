@@ -20,6 +20,9 @@
   G.C.E Advanced level 
 examination with a result of B2C 
 </p>
+<h1>Undergraduate</h1>
+<p>SLIIT UNIVERSITY (2024-2028)<br>
+ BSc (HONS) Biotechnology </p>
 
 
 ![](/images/matrix_results.png)
