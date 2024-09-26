@@ -1,5 +1,3 @@
-# shenthu0306.github.io
-
 # Shenthuri Ketheeswaran
 
 
@@ -9,7 +7,7 @@
 <img src="image1.jpg" alt="drawing" width="200"/>
 
 
-<h> Educational Qualifications<h>
+# Educational Qualifications
 <h1>Primary School</h1>
 <p> J/ST JOHN’S BOSCO VIDYALAYM<br>
  (2008-2012)
