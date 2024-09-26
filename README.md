@@ -13,9 +13,9 @@
  (2008-2012)
 <br> Got 162 in scholarship
 ## Secondary School
-*J/VEMBADI GIRLS’ HIGH SCHOOL<br>
+* J/VEMBADI GIRLS’ HIGH SCHOOL<br>
  (2013-2021)
-<br>G.C.E Advanced ordinary level
+  <br>G.C.E Advanced ordinary level
  examination with a result 7A 2B<br>
   G.C.E Advanced level 
 examination with a result of B2C 
