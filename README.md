@@ -9,7 +9,7 @@
 <img src="image1.jpg" alt="drawing" width="200"/>
 
 
-# Educational Qualifications
+<h> Educational Qualifications<h>
 <h1>Primary School</h1>
 <p> J/ST JOHN’S BOSCO VIDYALAYM<br>
  (2008-2012)
