@@ -44,8 +44,7 @@ examination with a result of B2C
  * Gardening
  * volunteering
 
-# [Download RESUME ](https://github.com/PlayingNumbers/ball_image_classifier)
-
+# [Download RESUME ](https://github.com/shenthu0306/shenthu0306.github.io/blob/1bc1c4597c72aba7b53f16df7c21e1e4df4e65ac/CV.pdf)
 # CONTACT 
 * Mobile - 0707030999
 * Email -shenthuriketheeswaran@gmail.com
