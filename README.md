@@ -12,6 +12,7 @@
 * J/ST JOHN’S BOSCO VIDYALAYM<br>
  (2008-2012)
 <br> Got 162 in scholarship
+
 ## Secondary School
 * J/VEMBADI GIRLS’ HIGH SCHOOL<br>
  (2013-2021)
