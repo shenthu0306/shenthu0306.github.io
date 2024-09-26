@@ -8,20 +8,20 @@
 
 
 # Educational Qualifications
-## Primary School
+
+ ## Primary Education
 * J/ST JOHN’S BOSCO VIDYALAYM<br>
  (2008-2012)
 <br> Got 162 in scholarship
 
-## Secondary School
+ ## Secondary Education
 * J/VEMBADI GIRLS’ HIGH SCHOOL<br>
  (2013-2021)
   <br>G.C.E Advanced ordinary level
  examination with a result 7A 2B<br>
   G.C.E Advanced level 
 examination with a result of B2C 
-
-## Undergraduate
+ ## Higher education
 * SLIIT UNIVERSITY (2024-present)<br>
  BSc (HONS) Biotechnology
 
@@ -35,7 +35,7 @@ examination with a result of B2C
   * Risk management process and analysis
   * Effective communication with technical and non technical audience
  
- # Hobbies
+ ## Hobbies
 
  * Reading novels
  * watching Films
@@ -45,11 +45,10 @@ examination with a result of B2C
  * Gardening
  * volunteering
 
-# [Download RESUME ](https://github.com/shenthu0306/shenthu0306.github.io/blob/1bc1c4597c72aba7b53f16df7c21e1e4df4e65ac/CV.pdf)
-# CONTACT 
-* Mobile - 0707030999
-* Email -shenthuriketheeswaran@gmail.com
-* Address - Sivan Kovilady Puttur,Jaffna
+## [Download RESUME ](https://github.com/shenthu0306/shenthu0306.github.io/blob/1bc1c4597c72aba7b53f16df7c21e1e4df4e65ac/CV.pdf)
+## CONTACT 
+  * Email -shenthuriketheeswaran@gmail.com
+
 
 
 
