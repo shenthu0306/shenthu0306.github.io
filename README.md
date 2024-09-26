@@ -28,8 +28,31 @@ examination with a result of B2C
 ##  Laboratory researcher at Lanka Hospital Pvt.Ltd, Colombo Sri Lanka (2027)
  *  Assist in designing research and conducting    
 experiments
-* Follow protocols and maintain safety 
+* Follow protocols and maintain safety
 
+  # Other skills
+  * Problem Solving
+  * Time Management
+  * Innovative Thinking
+  * Risk management process and analysis
+  * Effective communication with technical and non technical audience
+ 
+ # Hobbies
+
+ * Reading novels
+ * watching Films
+ * cooking
+ * writing
+ * Stamp collecting
+ * Gardening
+ * volunteering
+
+# [Download RESUME ](https://github.com/PlayingNumbers/ball_image_classifier)
+
+# CONTACT 
+* Mobile - 0707030999
+* Email -shenthuriketheeswaran@gmail.com
+* Address - Sivan Kovilady Puttur,Jaffna
 
 
 
