@@ -12,9 +12,15 @@
 <p> J/ST JOHN’S BOSCO VIDYALAYM<br>
  (2008-2012)
 <br> Got 162 in scholarship</p>
-<h1>Secondary School - Vembadi Girls High School</h1>
+<h1>Secondary School</h1>
 <p>J/VEMBADI GIRLS’ HIGH SCHOOL<br>
- (2013-2021)</p>
+ (2013-2021)
+<br> G.C.E Advanced ordinary level
+ examination with a result 7A 2B<br>
+  G.C.E Advanced level 
+examination with a result of B2C 
+</p>
 
 
 ![](/images/matrix_results.png)
+
