@@ -21,9 +21,15 @@
 examination with a result of B2C 
 
 ## Undergraduate
-* SLIIT UNIVERSITY (2024-2028)
- BSc (HONS) Biotechnology 
+* SLIIT UNIVERSITY (2024-present)<br>
+ BSc (HONS) Biotechnology
+
+ # Work Experience
+##  Laboratory researcher at Lanka Hospital Pvt.Ltd, Colombo Sri Lanka (2027)
+ *  Assist in designing research and conducting    
+experiments
+* Follow protocols and maintain safety 
 
 
-![](/images/matrix_results.png)
+
 
