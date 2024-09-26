@@ -8,7 +8,7 @@
 
 
 # Educational Qualifications
-<h1>Primary School</h1>
+##Primary School
 * J/ST JOHN’S BOSCO VIDYALAYM<br>
  (2008-2012)
 <br> Got 162 in scholarship
