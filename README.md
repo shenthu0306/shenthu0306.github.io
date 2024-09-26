@@ -10,11 +10,13 @@
 
 
 # Educational Qualifications
-<h2>Primary School</h2>
+<h1>Primary School</h1>
 <p> J/ST JOHN’S BOSCO VIDYALAYM<br>
  (2008-2012)
 <br> Got 162 in scholarship</p>
-## Secondary School - Vembadi Girls High School
+<h1>Secondary School - Vembadi Girls High School</h1>
+<p>J/VEMBADI GIRLS’ HIGH SCHOOL<br>
+ (2013-2021)</p>
 
 
 ![](/images/matrix_results.png)
